@@ -8,6 +8,7 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Vollkorn&display=swap" rel="stylesheet">
 
         <!-- Styles -->
         <style>
@@ -45,11 +46,11 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 55px;
             }
 
             .links > a {
-                color: #636b6f;
+                color: #181d21;
                 padding: 0 25px;
                 font-size: 13px;
                 font-weight: 600;
@@ -60,6 +61,15 @@
 
             .m-b-md {
                 margin-bottom: 30px;
+            }
+
+            .m-b-md img {
+                max-height: 170px;
+                border-radius: 99%;
+            }
+
+            .m-b-md{
+                font-family: 'Vollkorn', serif;
             }
         </style>
     </head>
@@ -78,13 +88,11 @@
                     @endauth
                 </div>
             @endif
-
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="public/images/87840345_10216315030297511_2746128769675689984_o.jpg" alt="Mug shot.">
-                    {{ config('app.name') }}
+                    <img src="../images/87840345_10216315030297511_2746128769675689984_o.jpg" alt="Mug shot.">
+                    <p>{{ config('app.name') }}</p>
                 </div>
-
                 <div class="links">
                     <a href="https://www.linkedin.com/in/tvdhdvt/">LinkedIn</a>
                     <a href="https://www.instagram.com/trouvaillisage/">Instagram</a>
@@ -93,5 +101,17 @@
                 </div>
             </div>
         </div>
+        <script>
+            var colors = ["#FFF7C0",
+                    "#799979",
+                    "#C46564",
+                    "#3E838C",
+                    "#F59B71",
+                    "#615375"],
+
+            bg = colors[Math.floor(Math.random() * colors.length)];
+
+            document.getElementsByTagName('body')[0].style.background = bg;
+        </script>
     </body>
 </html>
