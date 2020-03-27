@@ -129,8 +129,8 @@
     <div class="main">
         <div class="m-b-md content">
             <img src="../images/heythere.jpg" id="hello" alt="Mug shot.">
-            <p class="title volk">{{ config('app.name') }}<span class="supscr">&nbsp;WIP</span></p>
-            <p class="subtitle volk">- media - photo - digital ads -</p>
+            <p class="title volk">{{ config('app.name') }}<a href="https://photo.tvdhdvt.xyz/"><span class="supscr">&nbspWIP</span></a></p>
+            <p class="subtitle volk">- media - photo - web- digital ads -</p>
         </div>
         <br>
         <div class="links content">
