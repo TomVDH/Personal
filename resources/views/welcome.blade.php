@@ -96,6 +96,13 @@
             font-size: 1.15em;
         }
 
+        .supscr
+        {
+            font-size: 0.20em;
+            vertical-align: top;
+            color: #2a2e32;
+        }
+
         @media screen and (max-width: 1025px) {
             .links > a {
                 display: block;
@@ -122,8 +129,8 @@
     <div class="main">
         <div class="m-b-md content">
             <img src="../images/heythere.jpg" id="hello" alt="Mug shot.">
-            <p class="title volk">{{ config('app.name') }}</p>
-            <p class="subtitle volk">- binnenkort / soon -</p>
+            <p class="title volk">{{ config('app.name') }}<span class="supscr">&nbsp;WIP</span></p>
+            <p class="subtitle volk">- media - photo - digital ads -</p>
         </div>
         <br>
         <div class="links content">
