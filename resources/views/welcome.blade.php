@@ -81,6 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
+                    <img src="public/images/87840345_10216315030297511_2746128769675689984_o.jpg" alt="Mug shot.">
                     {{ config('app.name') }}
                 </div>
 
