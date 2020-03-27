@@ -4,7 +4,7 @@
     @extends('app.analytics')
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>coming soon :: tvdhdvt</title>
+    <title>tvdhdvt :: coming soon</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -129,7 +129,7 @@
     <div class="main">
         <div class="m-b-md content">
             <img src="../images/heythere.jpg" id="hello" alt="Mug shot.">
-            <p class="title volk">{{ config('app.name') }}<a href="https://photo.tvdhdvt.xyz/"><span class="supscr">v0.1.2</span></a></p>
+            <p class="title volk">{{ config('app.name') }}<span class="supscr">&nbsp;beta</span></p>
             <p class="subtitle volk">- media - photo - web - digital ads -</p>
         </div>
         <br>
