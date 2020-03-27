@@ -137,7 +137,7 @@
             <a href="https://www.linkedin.com/in/tvdhdvt/">LinkedIn</a>
             <a href="https://www.instagram.com/tvdhdvt/">Instagram</a>
             <a href="https://unsplash.com/@tvdhdvt">Unsplash</a>
-            <a href="../files/hireme.pdf"><strike>CV</strike></a>
+            <a href="../files/hireme.pdf">CV</a>
         </div>
     </div>
     <footer class="footer">
