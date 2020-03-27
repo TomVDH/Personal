@@ -129,15 +129,15 @@
     <div class="main">
         <div class="m-b-md content">
             <img src="../images/heythere.jpg" id="hello" alt="Mug shot.">
-            <p class="title volk">{{ config('app.name') }}<a href="https://photo.tvdhdvt.xyz/"><span class="supscr">&nbspWIP</span></a></p>
-            <p class="subtitle volk">- media - photo - web- digital ads -</p>
+            <p class="title volk">{{ config('app.name') }}<a href="https://photo.tvdhdvt.xyz/"><span class="supscr">v0.1.2</span></a></p>
+            <p class="subtitle volk">- media - photo - web - digital ads -</p>
         </div>
         <br>
         <div class="links content">
             <a href="https://www.linkedin.com/in/tvdhdvt/">LinkedIn</a>
             <a href="https://www.instagram.com/tvdhdvt/">Instagram</a>
             <a href="https://unsplash.com/@tvdhdvt">Unsplash</a>
-            <a href="#"><strike>CV</strike></a>
+            <a href="../files/hireme.pdf"><strike>CV</strike></a>
         </div>
     </div>
     <footer class="footer">
