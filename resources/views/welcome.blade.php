@@ -129,7 +129,7 @@
     <div class="main">
         <div class="m-b-md content">
             <img src="../images/heythere.jpg" id="hello" alt="Mug shot.">
-            <p class="title volk">{{ config('app.name') }}<span class="supscr">&nbsp;beta</span></p>
+            <p class="title volk"> {{ config('app.name') }} <span class="supscr">&nbsp;beta</span> </p>
             <p class="subtitle volk">- media - photo - web - digital ads -</p>
         </div>
         <br>
