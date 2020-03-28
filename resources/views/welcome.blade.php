@@ -6,6 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>tvdhdvt :: coming soon</title>
 
+    <meta name="title" content="tvdhdvt.xyz -- freelance digital polyglot">
+    <meta name="description" content="tvdhdvt dabbles in web, digital ads and photos to deliver a holistic media strategy for you.">
+    <meta name="keywords" content="digital marketing, photography, vancouver, freelance, web development, consulting, ppc, seo, sem">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="author" content="Tom Vanderheyden">
+
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Vollkorn&display=swap" rel="stylesheet">
