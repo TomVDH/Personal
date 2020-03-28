@@ -142,9 +142,9 @@
         </div>
         <br>
         <div class="links content">
-            <a href="https://www.linkedin.com/in/tvdhdvt/">LinkedIn</a>
-            <a href="https://www.instagram.com/tvdhdvt/">Instagram</a>
-            <a href="https://unsplash.com/@tvdhdvt">Unsplash</a>
+            <a href="https://www.linkedin.com/in/tvdhdvt/" rel="nofollow">LinkedIn</a>
+            <a href="https://www.instagram.com/tvdhdvt/" rel="nofollow">Instagram</a>
+            <a href="https://unsplash.com/@tvdhdvt" rel="nofollow">Unsplash</a>
             <a href="../files/hireme.pdf">CV</a>
         </div>
     </div>
